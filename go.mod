@@ -21,4 +21,4 @@ require (
 
 //replace github.com/slackhq/nebula v1.1.0 => github.com/slackhq/nebula v1.3.0
 //replace github.com/ory/fosite => github.com/ory/fosite v0.35.1
-//replace github.com/helm/helm v2.17.0+incompatible => github.com/helm/helm v2.16.7+incompatible
+replace github.com/helm/helm v2.17.0+incompatible => github.com/helm/helm v2.16.7+incompatible
