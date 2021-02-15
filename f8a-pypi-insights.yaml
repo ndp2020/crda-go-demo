@@ -30,7 +30,7 @@ services:
       REPLICAS: 1
       DOCKER_REGISTRY: quay.io
       DOCKER_IMAGE: openshiftio/rhel-fabric8-analytics-f8a-pypi-insights
-      MODEL_VERSION: "2021-01-08"
+      MODEL_VERSION: "2021-01-04"
   - name: production
 # ** THIS COMMENT BLOCK IS GENERATED AND REPLACED BY AN AUTOMATED SCRIPT; DO NOT UPDATE IT MANUALLY **
 # 
